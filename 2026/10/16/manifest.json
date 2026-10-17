@@ -29,6 +29,7 @@
       "metadata_path": "/Users/parthasarathidutta/Cursor/YoutubeTranscript/youtube_transcript_tool/archive/2026/10/16/videos/BOWYujhIQuo/metadata.json"
     }
   ],
-  "email_status": "preview",
-  "email_detail": "Email not sent (dry-run)."
+  "email_status": "sent",
+  "email_detail": "SMTP accepted message for delivery.",
+  "email_sent_at_utc": "2026-10-17T03:36:10.881867+00:00"
 }
