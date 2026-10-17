@@ -1,0 +1,69 @@
+{
+  "digest_date": "2026-10-17",
+  "reporting_window_policy": "fixed_timedelta_from_chicago_anchor",
+  "generated_at_utc": "2026-10-17T22:28:33.250655+00:00",
+  "dry_run": false,
+  "videos": [
+    {
+      "video_id": "SHMCGrNJJGc",
+      "title": "How to Know If Your AI Agent Is Any Good: Evals With Phoenix & Claude \u2014 Laurie Voss, Arize AI",
+      "youtube_url": "https://www.youtube.com/watch?v=SHMCGrNJJGc",
+      "published_at_utc": "2026-10-17T19:00:23+00:00",
+      "discovery_category": "delayed_since_anchor",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/SHMCGrNJJGc/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/SHMCGrNJJGc/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/SHMCGrNJJGc/metadata.json"
+    },
+    {
+      "video_id": "e9-br9hveRI",
+      "title": "Stop Chatting With Spreadsheets \u2014 Francesco Galletta & Felippe Felisola Caso, Monzo",
+      "youtube_url": "https://www.youtube.com/watch?v=e9-br9hveRI",
+      "published_at_utc": "2026-10-17T14:00:03+00:00",
+      "discovery_category": "delayed_since_anchor",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/e9-br9hveRI/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/e9-br9hveRI/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/e9-br9hveRI/metadata.json"
+    },
+    {
+      "video_id": "Ti-BmGU1_mQ",
+      "title": "The AI Bill Is Too Damn High: Tokenomics 101 \u2014 Eugene Cheah, Featherless AI",
+      "youtube_url": "https://www.youtube.com/watch?v=Ti-BmGU1_mQ",
+      "published_at_utc": "2026-10-17T09:00:27+00:00",
+      "discovery_category": "reporting_window",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/Ti-BmGU1_mQ/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/Ti-BmGU1_mQ/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/Ti-BmGU1_mQ/metadata.json"
+    },
+    {
+      "video_id": "KtBivPzmOM8",
+      "title": "Memory-Aware Agent Harnesses for Anti-Money Laundering \u2014 Nacho Martinez, Oracle",
+      "youtube_url": "https://www.youtube.com/watch?v=KtBivPzmOM8",
+      "published_at_utc": "2026-10-17T07:00:25+00:00",
+      "discovery_category": "reporting_window",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/KtBivPzmOM8/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/KtBivPzmOM8/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/KtBivPzmOM8/metadata.json"
+    },
+    {
+      "video_id": "kiClTcJUnhc",
+      "title": "Why One AI Agent Isn\u2019t Enough (And How to Run 1,000) - CJ Avilla & Harrison Stall, Anthropic",
+      "youtube_url": "https://www.youtube.com/watch?v=kiClTcJUnhc",
+      "published_at_utc": "2026-10-16T19:00:10+00:00",
+      "discovery_category": "reporting_window",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/kiClTcJUnhc/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/kiClTcJUnhc/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/17/videos/kiClTcJUnhc/metadata.json"
+    }
+  ],
+  "email_status": null
+}
