@@ -1,0 +1,58 @@
+{
+  "digest_date": "2026-10-18",
+  "reporting_window_policy": "fixed_timedelta_from_chicago_anchor",
+  "generated_at_utc": "2026-10-18T15:44:35.646574+00:00",
+  "dry_run": false,
+  "videos": [
+    {
+      "video_id": "W4pnzOURwHQ",
+      "title": "Insurance Claims Are AI's Messiest Data Problem \u2014 Denys Linkov, Wisedocs",
+      "youtube_url": "https://www.youtube.com/watch?v=W4pnzOURwHQ",
+      "published_at_utc": "2026-10-18T09:00:25+00:00",
+      "discovery_category": "reporting_window",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": null,
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/W4pnzOURwHQ/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/W4pnzOURwHQ/metadata.json"
+    },
+    {
+      "video_id": "obfPzbapMIM",
+      "title": "Evals for High-Stakes AI Agents \u2014 Doneyli De Jesus & Annabell Sch\u00e4fer, Langfuse",
+      "youtube_url": "https://www.youtube.com/watch?v=obfPzbapMIM",
+      "published_at_utc": "2026-10-18T08:00:06+00:00",
+      "discovery_category": "reporting_window",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": null,
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/obfPzbapMIM/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/obfPzbapMIM/metadata.json"
+    },
+    {
+      "video_id": "q4WC4TowkBo",
+      "title": "Teach Your Agent to Prove It's Done \u2014 Nick Nisi & Zack Proser, WorkOS",
+      "youtube_url": "https://www.youtube.com/watch?v=q4WC4TowkBo",
+      "published_at_utc": "2026-10-18T07:00:17+00:00",
+      "discovery_category": "reporting_window",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": null,
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/q4WC4TowkBo/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/q4WC4TowkBo/metadata.json"
+    },
+    {
+      "video_id": "IavxrdVnwXM",
+      "title": "An AI Agent Got Its User Banned From Resy \u2014 Keycard, JPMorgan Chase & AAuth",
+      "youtube_url": "https://www.youtube.com/watch?v=IavxrdVnwXM",
+      "published_at_utc": "2026-10-17T23:00:05+00:00",
+      "discovery_category": "reporting_window",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": null,
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/IavxrdVnwXM/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/IavxrdVnwXM/metadata.json"
+    }
+  ],
+  "email_status": null,
+  "summaries_enabled": false
+}
