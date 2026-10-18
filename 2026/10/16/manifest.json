@@ -12,9 +12,10 @@
       "discovery_category": "manual_video_id",
       "transcript_status": "success",
       "transcript_provider": "youtube_transcript_api",
-      "summary_path": "/Users/parthasarathidutta/Cursor/YoutubeTranscript/youtube_transcript_tool/archive/2026/10/16/videos/BOWYujhIQuo/summary.md",
-      "transcript_path": "/Users/parthasarathidutta/Cursor/YoutubeTranscript/youtube_transcript_tool/archive/2026/10/16/videos/BOWYujhIQuo/transcript.md",
-      "metadata_path": "/Users/parthasarathidutta/Cursor/YoutubeTranscript/youtube_transcript_tool/archive/2026/10/16/videos/BOWYujhIQuo/metadata.json"
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/16/videos/AI-Agents-Cut-3-Day-Portfolio-Builds-to-Minutes-Jack-McDonald-Apollo-Michael-Man__BOWYujhIQuo/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/16/videos/AI-Agents-Cut-3-Day-Portfolio-Builds-to-Minutes-Jack-McDonald-Apollo-Michael-Man__BOWYujhIQuo/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/16/videos/AI-Agents-Cut-3-Day-Portfolio-Builds-to-Minutes-Jack-McDonald-Apollo-Michael-Man__BOWYujhIQuo/metadata.json",
+      "archive_folder": "AI-Agents-Cut-3-Day-Portfolio-Builds-to-Minutes-Jack-McDonald-Apollo-Michael-Man__BOWYujhIQuo"
     },
     {
       "video_id": "BOWYujhIQuo",
@@ -24,9 +25,10 @@
       "discovery_category": "manual_video_id",
       "transcript_status": "success",
       "transcript_provider": "youtube_transcript_api",
-      "summary_path": "/Users/parthasarathidutta/Cursor/YoutubeTranscript/youtube_transcript_tool/archive/2026/10/16/videos/BOWYujhIQuo/summary.md",
-      "transcript_path": "/Users/parthasarathidutta/Cursor/YoutubeTranscript/youtube_transcript_tool/archive/2026/10/16/videos/BOWYujhIQuo/transcript.md",
-      "metadata_path": "/Users/parthasarathidutta/Cursor/YoutubeTranscript/youtube_transcript_tool/archive/2026/10/16/videos/BOWYujhIQuo/metadata.json"
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/16/videos/AI-Agents-Cut-3-Day-Portfolio-Builds-to-Minutes-Jack-McDonald-Apollo-Michael-Man__BOWYujhIQuo/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/16/videos/AI-Agents-Cut-3-Day-Portfolio-Builds-to-Minutes-Jack-McDonald-Apollo-Michael-Man__BOWYujhIQuo/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/16/videos/AI-Agents-Cut-3-Day-Portfolio-Builds-to-Minutes-Jack-McDonald-Apollo-Michael-Man__BOWYujhIQuo/metadata.json",
+      "archive_folder": "AI-Agents-Cut-3-Day-Portfolio-Builds-to-Minutes-Jack-McDonald-Apollo-Michael-Man__BOWYujhIQuo"
     }
   ],
   "email_status": "sent",

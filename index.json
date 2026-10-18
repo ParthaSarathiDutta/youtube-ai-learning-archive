@@ -5,42 +5,48 @@
       "published_at_utc": "2026-10-16T23:00:36+00:00",
       "transcript_status": "success",
       "transcript_provider": "youtube_transcript_api",
-      "updated_at_utc": "2026-10-17T03:36:07.505903+00:00"
+      "updated_at_utc": "2026-10-17T03:36:07.505903+00:00",
+      "archive_folder": "AI-Agents-Cut-3-Day-Portfolio-Builds-to-Minutes-Jack-McDonald-Apollo-Michael-Man__BOWYujhIQuo"
     },
     "SHMCGrNJJGc": {
       "title": "How to Know If Your AI Agent Is Any Good: Evals With Phoenix & Claude \u2014 Laurie Voss, Arize AI",
       "published_at_utc": "2026-10-17T19:00:23+00:00",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "updated_at_utc": "2026-10-17T22:29:46.600300+00:00"
+      "updated_at_utc": "2026-10-17T22:29:46.600300+00:00",
+      "archive_folder": "How-to-Know-If-Your-AI-Agent-Is-Any-Good-Evals-With-Phoenix-Claude-Laurie-Voss-A__SHMCGrNJJGc"
     },
     "e9-br9hveRI": {
       "title": "Stop Chatting With Spreadsheets \u2014 Francesco Galletta & Felippe Felisola Caso, Monzo",
       "published_at_utc": "2026-10-17T14:00:03+00:00",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "updated_at_utc": "2026-10-17T22:30:44.627740+00:00"
+      "updated_at_utc": "2026-10-17T22:30:44.627740+00:00",
+      "archive_folder": "Stop-Chatting-With-Spreadsheets-Francesco-Galletta-Felippe-Felisola-Caso-Monzo__e9-br9hveRI"
     },
     "Ti-BmGU1_mQ": {
       "title": "The AI Bill Is Too Damn High: Tokenomics 101 \u2014 Eugene Cheah, Featherless AI",
       "published_at_utc": "2026-10-17T09:00:27+00:00",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "updated_at_utc": "2026-10-17T22:31:41.480605+00:00"
+      "updated_at_utc": "2026-10-17T22:31:41.480605+00:00",
+      "archive_folder": "The-AI-Bill-Is-Too-Damn-High-Tokenomics-101-Eugene-Cheah-Featherless-AI__Ti-BmGU1_mQ"
     },
     "KtBivPzmOM8": {
       "title": "Memory-Aware Agent Harnesses for Anti-Money Laundering \u2014 Nacho Martinez, Oracle",
       "published_at_utc": "2026-10-17T07:00:25+00:00",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "updated_at_utc": "2026-10-17T22:32:31.357936+00:00"
+      "updated_at_utc": "2026-10-17T22:32:31.357936+00:00",
+      "archive_folder": "Memory-Aware-Agent-Harnesses-for-Anti-Money-Laundering-Nacho-Martinez-Oracle__KtBivPzmOM8"
     },
     "kiClTcJUnhc": {
       "title": "Why One AI Agent Isn\u2019t Enough (And How to Run 1,000) - CJ Avilla & Harrison Stall, Anthropic",
       "published_at_utc": "2026-10-16T19:00:10+00:00",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "updated_at_utc": "2026-10-17T22:33:43.169040+00:00"
+      "updated_at_utc": "2026-10-17T22:33:43.169040+00:00",
+      "archive_folder": "Why-One-AI-Agent-Isnt-Enough-And-How-to-Run-1000-CJ-Avilla-Harrison-Stall-Anthro__kiClTcJUnhc"
     },
     "W4pnzOURwHQ": {
       "title": "Insurance Claims Are AI's Messiest Data Problem \u2014 Denys Linkov, Wisedocs",
@@ -49,7 +55,8 @@
       "transcript_provider": "transcriptapi",
       "updated_at_utc": "2026-10-18T15:44:39.171471+00:00",
       "digest_email_sent": true,
-      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00"
+      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00",
+      "archive_folder": "Insurance-Claims-Are-AIs-Messiest-Data-Problem-Denys-Linkov-Wisedocs__W4pnzOURwHQ"
     },
     "obfPzbapMIM": {
       "title": "Evals for High-Stakes AI Agents \u2014 Doneyli De Jesus & Annabell Sch\u00e4fer, Langfuse",
@@ -58,7 +65,8 @@
       "transcript_provider": "transcriptapi",
       "updated_at_utc": "2026-10-18T15:44:41.347122+00:00",
       "digest_email_sent": true,
-      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00"
+      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00",
+      "archive_folder": "Evals-for-High-Stakes-AI-Agents-Doneyli-De-Jesus-Annabell-Schafer-Langfuse__obfPzbapMIM"
     },
     "q4WC4TowkBo": {
       "title": "Teach Your Agent to Prove It's Done \u2014 Nick Nisi & Zack Proser, WorkOS",
@@ -67,7 +75,8 @@
       "transcript_provider": "transcriptapi",
       "updated_at_utc": "2026-10-18T15:44:43.884503+00:00",
       "digest_email_sent": true,
-      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00"
+      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00",
+      "archive_folder": "Teach-Your-Agent-to-Prove-Its-Done-Nick-Nisi-Zack-Proser-WorkOS__q4WC4TowkBo"
     },
     "IavxrdVnwXM": {
       "title": "An AI Agent Got Its User Banned From Resy \u2014 Keycard, JPMorgan Chase & AAuth",
@@ -76,7 +85,8 @@
       "transcript_provider": "transcriptapi",
       "updated_at_utc": "2026-10-18T15:44:46.632968+00:00",
       "digest_email_sent": true,
-      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00"
+      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00",
+      "archive_folder": "An-AI-Agent-Got-Its-User-Banned-From-Resy-Keycard-JPMorgan-Chase-AAuth__IavxrdVnwXM"
     }
   }
 }

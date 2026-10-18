@@ -12,9 +12,10 @@
       "discovery_category": "reporting_window",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "summary_path": null,
-      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/W4pnzOURwHQ/transcript.md",
-      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/W4pnzOURwHQ/metadata.json"
+      "archive_folder": "Insurance-Claims-Are-AIs-Messiest-Data-Problem-Denys-Linkov-Wisedocs__W4pnzOURwHQ",
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/Insurance-Claims-Are-AIs-Messiest-Data-Problem-Denys-Linkov-Wisedocs__W4pnzOURwHQ/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/Insurance-Claims-Are-AIs-Messiest-Data-Problem-Denys-Linkov-Wisedocs__W4pnzOURwHQ/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/Insurance-Claims-Are-AIs-Messiest-Data-Problem-Denys-Linkov-Wisedocs__W4pnzOURwHQ/metadata.json"
     },
     {
       "video_id": "obfPzbapMIM",
@@ -24,9 +25,10 @@
       "discovery_category": "reporting_window",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "summary_path": null,
-      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/obfPzbapMIM/transcript.md",
-      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/obfPzbapMIM/metadata.json"
+      "archive_folder": "Evals-for-High-Stakes-AI-Agents-Doneyli-De-Jesus-Annabell-Schafer-Langfuse__obfPzbapMIM",
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/Evals-for-High-Stakes-AI-Agents-Doneyli-De-Jesus-Annabell-Schafer-Langfuse__obfPzbapMIM/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/Evals-for-High-Stakes-AI-Agents-Doneyli-De-Jesus-Annabell-Schafer-Langfuse__obfPzbapMIM/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/Evals-for-High-Stakes-AI-Agents-Doneyli-De-Jesus-Annabell-Schafer-Langfuse__obfPzbapMIM/metadata.json"
     },
     {
       "video_id": "q4WC4TowkBo",
@@ -36,9 +38,10 @@
       "discovery_category": "reporting_window",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "summary_path": null,
-      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/q4WC4TowkBo/transcript.md",
-      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/q4WC4TowkBo/metadata.json"
+      "archive_folder": "Teach-Your-Agent-to-Prove-Its-Done-Nick-Nisi-Zack-Proser-WorkOS__q4WC4TowkBo",
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/Teach-Your-Agent-to-Prove-Its-Done-Nick-Nisi-Zack-Proser-WorkOS__q4WC4TowkBo/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/Teach-Your-Agent-to-Prove-Its-Done-Nick-Nisi-Zack-Proser-WorkOS__q4WC4TowkBo/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/Teach-Your-Agent-to-Prove-Its-Done-Nick-Nisi-Zack-Proser-WorkOS__q4WC4TowkBo/metadata.json"
     },
     {
       "video_id": "IavxrdVnwXM",
@@ -48,9 +51,10 @@
       "discovery_category": "reporting_window",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "summary_path": null,
-      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/IavxrdVnwXM/transcript.md",
-      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/IavxrdVnwXM/metadata.json"
+      "archive_folder": "An-AI-Agent-Got-Its-User-Banned-From-Resy-Keycard-JPMorgan-Chase-AAuth__IavxrdVnwXM",
+      "summary_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/An-AI-Agent-Got-Its-User-Banned-From-Resy-Keycard-JPMorgan-Chase-AAuth__IavxrdVnwXM/summary.md",
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/An-AI-Agent-Got-Its-User-Banned-From-Resy-Keycard-JPMorgan-Chase-AAuth__IavxrdVnwXM/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/An-AI-Agent-Got-Its-User-Banned-From-Resy-Keycard-JPMorgan-Chase-AAuth__IavxrdVnwXM/metadata.json"
     }
   ],
   "email_status": "sent",
