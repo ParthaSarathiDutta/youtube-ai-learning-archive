@@ -1,0 +1,41 @@
+{
+  "playlist_id": "PLAeHHACevH9k",
+  "playlist_title": "SyntheticData",
+  "archive_subpath": "responsiv/synthetic data",
+  "synced_at_utc": "2026-10-18T19:42:06.511097+00:00",
+  "videos": [
+    {
+      "video_id": "coKKKKh8Vns",
+      "title": "How to run Evals at Scale: Thinking beyond Accuracy or Similarity \u2014\u00a0Muktesh Mishra, Adobe",
+      "youtube_url": "https://www.youtube.com/watch?v=coKKKKh8Vns",
+      "position": 1,
+      "youtube_published_at_utc": "2025-07-22T19:46:22+00:00",
+      "transcript_generated_at_utc": "2026-10-18T19:42:02.078515+00:00",
+      "transcript_provider": "transcriptapi",
+      "transcript_location": "responsiv/synthetic data/How-to-run-Evals-at-Scale-Thinking-beyond-Accuracy-or-Similarity-Muktesh-Mishra__coKKKKh8Vns/transcript.md",
+      "transcript_source": "synthetic_data_archive"
+    },
+    {
+      "video_id": "KhYifX22yhE",
+      "title": "The Messy Reality of Scale: Synthetic Data and Pre-Training \u2014 Marah Abdin & Robert McHardy, poolside",
+      "youtube_url": "https://www.youtube.com/watch?v=KhYifX22yhE",
+      "position": 2,
+      "youtube_published_at_utc": "2026-07-26T01:00:06+00:00",
+      "transcript_generated_at_utc": "2026-10-18T19:42:04.204380+00:00",
+      "transcript_provider": "transcriptapi",
+      "transcript_location": "responsiv/synthetic data/The-Messy-Reality-of-Scale-Synthetic-Data-and-Pre-Training-Marah-Abdin-Robert-Mc__KhYifX22yhE/transcript.md",
+      "transcript_source": "synthetic_data_archive"
+    },
+    {
+      "video_id": "XAsb7MIAzm8",
+      "title": "Don\u2019t be data poor \u2014 Anuj Iravane, Anterior",
+      "youtube_url": "https://www.youtube.com/watch?v=XAsb7MIAzm8",
+      "position": 3,
+      "youtube_published_at_utc": "2026-08-19T18:00:17+00:00",
+      "transcript_generated_at_utc": "2026-10-18T19:42:06.452205+00:00",
+      "transcript_provider": "transcriptapi",
+      "transcript_location": "responsiv/synthetic data/Dont-be-data-poor-Anuj-Iravane-Anterior__XAsb7MIAzm8/transcript.md",
+      "transcript_source": "synthetic_data_archive"
+    }
+  ]
+}
