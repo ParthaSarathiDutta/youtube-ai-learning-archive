@@ -2,7 +2,7 @@
   "playlist_id": "PLOkQ3xh7s_rk",
   "playlist_title": "Evals",
   "archive_subpath": "responsiv/evals",
-  "synced_at_utc": "2026-10-18T19:08:12.234506+00:00",
+  "synced_at_utc": "2026-10-18T19:30:23.289804+00:00",
   "videos": [
     {
       "video_id": "aqKUwPKBkB0",
@@ -56,8 +56,8 @@
       "youtube_published_at_utc": "2026-10-17T19:00:23+00:00",
       "transcript_generated_at_utc": null,
       "transcript_provider": "transcriptapi",
-      "transcript_location": "2026/10/17/videos/How-to-Know-If-Your-AI-Agent-Is-Any-Good-Evals-With-Phoenix-Claude-Laurie-Voss-A__SHMCGrNJJGc/transcript.md",
-      "transcript_source": "global_archive"
+      "transcript_location": "responsiv/evals/How-to-Know-If-Your-AI-Agent-Is-Any-Good-Evals-With-Phoenix-Claude-Laurie-Voss-A__SHMCGrNJJGc/transcript.md",
+      "transcript_source": "evals_archive"
     },
     {
       "video_id": "xc6oUcCO7ug",
