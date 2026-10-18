@@ -87,6 +87,46 @@
       "digest_email_sent": true,
       "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00",
       "archive_folder": "An-AI-Agent-Got-Its-User-Banned-From-Resy-Keycard-JPMorgan-Chase-AAuth__IavxrdVnwXM"
+    },
+    "aqKUwPKBkB0": {
+      "title": "Build Your Own Eval Tools With Notebooks!",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-18T19:08:02.902241+00:00",
+      "archive_folder": "Build-Your-Own-Eval-Tools-With-Notebooks__aqKUwPKBkB0",
+      "evals_playlist_transcript_status": "success",
+      "evals_playlist_transcript_generated_at_utc": "2026-10-18T19:08:02.902241+00:00"
+    },
+    "NaCjm8rdxqk": {
+      "title": "Build Your First Eval: Creating a Custom LLM Evaluator with a Golden Dataset",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-18T19:08:05.125417+00:00",
+      "archive_folder": "Build-Your-First-Eval-Creating-a-Custom-LLM-Evaluator-with-a-Golden-Dataset__NaCjm8rdxqk",
+      "evals_playlist_transcript_status": "success",
+      "evals_playlist_transcript_generated_at_utc": "2026-10-18T19:08:05.125417+00:00"
+    },
+    "31GUkCBD-Uc": {
+      "title": "Building Closed-Loop Evals for a Multimodal Agent at Scale \u2014 Soumya Gupta & Jai Chopra, Uber",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-18T19:08:07.625483+00:00",
+      "archive_folder": "Building-Closed-Loop-Evals-for-a-Multimodal-Agent-at-Scale-Soumya-Gupta-Jai-Chop__31GUkCBD-Uc",
+      "evals_playlist_transcript_status": "success",
+      "evals_playlist_transcript_generated_at_utc": "2026-10-18T19:08:07.625483+00:00"
+    },
+    "qZj7sqmidqA": {
+      "title": "From Vibes to Production: Evaluating and Shipping AI Agents That Work 101 \u2014 Laurie Voss, Arize AI",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-18T19:08:10.193285+00:00",
+      "archive_folder": "From-Vibes-to-Production-Evaluating-and-Shipping-AI-Agents-That-Work-101-Laurie__qZj7sqmidqA",
+      "evals_playlist_transcript_status": "success",
+      "evals_playlist_transcript_generated_at_utc": "2026-10-18T19:08:10.193285+00:00"
+    },
+    "xc6oUcCO7ug": {
+      "title": "Evaluating Agentic AI at Scale: Linkedin's AI Evaluation Recipe",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-18T19:08:12.234173+00:00",
+      "archive_folder": "Evaluating-Agentic-AI-at-Scale-Linkedins-AI-Evaluation-Recipe__xc6oUcCO7ug",
+      "evals_playlist_transcript_status": "success",
+      "evals_playlist_transcript_generated_at_utc": "2026-10-18T19:08:12.234173+00:00"
     }
   }
 }

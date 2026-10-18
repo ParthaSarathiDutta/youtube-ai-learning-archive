@@ -1,0 +1,74 @@
+{
+  "playlist_id": "PLOkQ3xh7s_rk",
+  "playlist_title": "Evals",
+  "archive_subpath": "responsiv/evals",
+  "synced_at_utc": "2026-10-18T19:08:12.234506+00:00",
+  "videos": [
+    {
+      "video_id": "aqKUwPKBkB0",
+      "title": "Build Your Own Eval Tools With Notebooks!",
+      "youtube_url": "https://www.youtube.com/watch?v=aqKUwPKBkB0",
+      "position": 1,
+      "youtube_published_at_utc": "2025-06-27T00:35:56+00:00",
+      "transcript_generated_at_utc": "2026-10-18T19:08:02.901264+00:00",
+      "transcript_provider": "transcriptapi",
+      "transcript_location": "responsiv/evals/Build-Your-Own-Eval-Tools-With-Notebooks__aqKUwPKBkB0/transcript.md",
+      "transcript_source": "evals_archive"
+    },
+    {
+      "video_id": "NaCjm8rdxqk",
+      "title": "Build Your First Eval: Creating a Custom LLM Evaluator with a Golden Dataset",
+      "youtube_url": "https://www.youtube.com/watch?v=NaCjm8rdxqk",
+      "position": 2,
+      "youtube_published_at_utc": "2025-07-30T17:48:34+00:00",
+      "transcript_generated_at_utc": "2026-10-18T19:08:05.124411+00:00",
+      "transcript_provider": "transcriptapi",
+      "transcript_location": "responsiv/evals/Build-Your-First-Eval-Creating-a-Custom-LLM-Evaluator-with-a-Golden-Dataset__NaCjm8rdxqk/transcript.md",
+      "transcript_source": "evals_archive"
+    },
+    {
+      "video_id": "31GUkCBD-Uc",
+      "title": "Building Closed-Loop Evals for a Multimodal Agent at Scale \u2014 Soumya Gupta & Jai Chopra, Uber",
+      "youtube_url": "https://www.youtube.com/watch?v=31GUkCBD-Uc",
+      "position": 3,
+      "youtube_published_at_utc": "2026-07-24T22:00:25+00:00",
+      "transcript_generated_at_utc": "2026-10-18T19:08:07.624588+00:00",
+      "transcript_provider": "transcriptapi",
+      "transcript_location": "responsiv/evals/Building-Closed-Loop-Evals-for-a-Multimodal-Agent-at-Scale-Soumya-Gupta-Jai-Chop__31GUkCBD-Uc/transcript.md",
+      "transcript_source": "evals_archive"
+    },
+    {
+      "video_id": "qZj7sqmidqA",
+      "title": "From Vibes to Production: Evaluating and Shipping AI Agents That Work 101 \u2014 Laurie Voss, Arize AI",
+      "youtube_url": "https://www.youtube.com/watch?v=qZj7sqmidqA",
+      "position": 4,
+      "youtube_published_at_utc": "2026-10-05T22:00:36+00:00",
+      "transcript_generated_at_utc": "2026-10-18T19:08:10.192303+00:00",
+      "transcript_provider": "transcriptapi",
+      "transcript_location": "responsiv/evals/From-Vibes-to-Production-Evaluating-and-Shipping-AI-Agents-That-Work-101-Laurie__qZj7sqmidqA/transcript.md",
+      "transcript_source": "evals_archive"
+    },
+    {
+      "video_id": "SHMCGrNJJGc",
+      "title": "How to Know If Your AI Agent Is Any Good: Evals With Phoenix & Claude \u2014 Laurie Voss, Arize AI",
+      "youtube_url": "https://www.youtube.com/watch?v=SHMCGrNJJGc",
+      "position": 5,
+      "youtube_published_at_utc": "2026-10-17T19:00:23+00:00",
+      "transcript_generated_at_utc": null,
+      "transcript_provider": "transcriptapi",
+      "transcript_location": "2026/10/17/videos/How-to-Know-If-Your-AI-Agent-Is-Any-Good-Evals-With-Phoenix-Claude-Laurie-Voss-A__SHMCGrNJJGc/transcript.md",
+      "transcript_source": "global_archive"
+    },
+    {
+      "video_id": "xc6oUcCO7ug",
+      "title": "Evaluating Agentic AI at Scale: Linkedin's AI Evaluation Recipe",
+      "youtube_url": "https://www.youtube.com/watch?v=xc6oUcCO7ug",
+      "position": 6,
+      "youtube_published_at_utc": "2026-09-29T22:22:39+00:00",
+      "transcript_generated_at_utc": "2026-10-18T19:08:12.233260+00:00",
+      "transcript_provider": "transcriptapi",
+      "transcript_location": "responsiv/evals/Evaluating-Agentic-AI-at-Scale-Linkedins-AI-Evaluation-Recipe__xc6oUcCO7ug/transcript.md",
+      "transcript_source": "evals_archive"
+    }
+  ]
+}
