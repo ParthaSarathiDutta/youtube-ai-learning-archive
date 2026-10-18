@@ -47,28 +47,36 @@
       "published_at_utc": "2026-10-18T09:00:25+00:00",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "updated_at_utc": "2026-10-18T15:44:39.171471+00:00"
+      "updated_at_utc": "2026-10-18T15:44:39.171471+00:00",
+      "digest_email_sent": true,
+      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00"
     },
     "obfPzbapMIM": {
       "title": "Evals for High-Stakes AI Agents \u2014 Doneyli De Jesus & Annabell Sch\u00e4fer, Langfuse",
       "published_at_utc": "2026-10-18T08:00:06+00:00",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "updated_at_utc": "2026-10-18T15:44:41.347122+00:00"
+      "updated_at_utc": "2026-10-18T15:44:41.347122+00:00",
+      "digest_email_sent": true,
+      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00"
     },
     "q4WC4TowkBo": {
       "title": "Teach Your Agent to Prove It's Done \u2014 Nick Nisi & Zack Proser, WorkOS",
       "published_at_utc": "2026-10-18T07:00:17+00:00",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "updated_at_utc": "2026-10-18T15:44:43.884503+00:00"
+      "updated_at_utc": "2026-10-18T15:44:43.884503+00:00",
+      "digest_email_sent": true,
+      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00"
     },
     "IavxrdVnwXM": {
       "title": "An AI Agent Got Its User Banned From Resy \u2014 Keycard, JPMorgan Chase & AAuth",
       "published_at_utc": "2026-10-17T23:00:05+00:00",
       "transcript_status": "success",
       "transcript_provider": "transcriptapi",
-      "updated_at_utc": "2026-10-18T15:44:46.632968+00:00"
+      "updated_at_utc": "2026-10-18T15:44:46.632968+00:00",
+      "digest_email_sent": true,
+      "digest_email_sent_at_utc": "2026-10-18T15:44:49.493916+00:00"
     }
   }
 }

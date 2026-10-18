@@ -53,6 +53,14 @@
       "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/18/videos/IavxrdVnwXM/metadata.json"
     }
   ],
-  "email_status": null,
-  "summaries_enabled": false
+  "email_status": "sent",
+  "summaries_enabled": false,
+  "email_sent_at_utc": "2026-10-18T15:44:49.494583+00:00",
+  "last_emailed_video_ids": [
+    "W4pnzOURwHQ",
+    "obfPzbapMIM",
+    "q4WC4TowkBo",
+    "IavxrdVnwXM"
+  ],
+  "email_detail": "SMTP accepted message for delivery."
 }
