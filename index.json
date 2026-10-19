@@ -151,6 +151,72 @@
       "archive_folder": "Dont-be-data-poor-Anuj-Iravane-Anterior__XAsb7MIAzm8",
       "synthetic_data_playlist_transcript_status": "success",
       "synthetic_data_playlist_transcript_generated_at_utc": "2026-10-18T19:42:06.453093+00:00"
+    },
+    "UGjk3Uk0MxM": {
+      "title": "The Model Swap Workshop: GPT-5.5 vs Kimi vs DeepSeek vs Mistral \u2014 Pamela Fox, Microsoft",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-19T18:41:41.958081+00:00",
+      "archive_folder": "The-Model-Swap-Workshop-GPT-55-vs-Kimi-vs-DeepSeek-vs-Mistral-Pamela-Fox-Microso__UGjk3Uk0MxM",
+      "transcript_scope": "daily_digest",
+      "transcript_status": "success",
+      "youtube_published_at_utc": "2026-10-19T14:06:53+00:00",
+      "published_at_utc": "2026-10-19T14:06:53+00:00",
+      "transcript_generated_at_utc": "2026-10-19T18:41:41.958081+00:00"
+    },
+    "J7n3WJnFTto": {
+      "title": "Why Buying Companies Beats Selling Them AI \u2014 Prathik Naidu, Long Lake",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-19T18:42:46.501656+00:00",
+      "archive_folder": "Why-Buying-Companies-Beats-Selling-Them-AI-Prathik-Naidu-Long-Lake__J7n3WJnFTto",
+      "transcript_scope": "daily_digest",
+      "transcript_status": "success",
+      "youtube_published_at_utc": "2026-10-19T09:00:32+00:00",
+      "published_at_utc": "2026-10-19T09:00:32+00:00",
+      "transcript_generated_at_utc": "2026-10-19T18:42:46.501656+00:00"
+    },
+    "vS2IA9pq0Q4": {
+      "title": "Version-Controlled Search: The Web as It Was \u2014 Ryan Ahern, Exa",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-19T18:42:48.319961+00:00",
+      "archive_folder": "Version-Controlled-Search-The-Web-as-It-Was-Ryan-Ahern-Exa__vS2IA9pq0Q4",
+      "transcript_scope": "daily_digest",
+      "transcript_status": "success",
+      "youtube_published_at_utc": "2026-10-19T08:00:29+00:00",
+      "published_at_utc": "2026-10-19T08:00:29+00:00",
+      "transcript_generated_at_utc": "2026-10-19T18:42:48.319961+00:00"
+    },
+    "L4dUFimVDKU": {
+      "title": "Backtest Your Agent Against Yesterday's Web \u2014 Ryan Ahern, Exa",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-19T18:42:50.893462+00:00",
+      "archive_folder": "Backtest-Your-Agent-Against-Yesterdays-Web-Ryan-Ahern-Exa__L4dUFimVDKU",
+      "transcript_scope": "daily_digest",
+      "transcript_status": "success",
+      "youtube_published_at_utc": "2026-10-19T07:00:39+00:00",
+      "published_at_utc": "2026-10-19T07:00:39+00:00",
+      "transcript_generated_at_utc": "2026-10-19T18:42:50.893462+00:00"
+    },
+    "-AOxpwVeIWw": {
+      "title": "Why AI Agents Still Won't Pay for Anything \u2014 Jan Curn, Apify",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-19T18:42:52.952765+00:00",
+      "archive_folder": "Why-AI-Agents-Still-Wont-Pay-for-Anything-Jan-Curn-Apify__-AOxpwVeIWw",
+      "transcript_scope": "daily_digest",
+      "transcript_status": "success",
+      "youtube_published_at_utc": "2026-10-18T23:00:35+00:00",
+      "published_at_utc": "2026-10-18T23:00:35+00:00",
+      "transcript_generated_at_utc": "2026-10-19T18:42:52.952765+00:00"
+    },
+    "7T-gldvgfpo": {
+      "title": "Stop Telling Agents How \u2014 Dan Barrett, Raymond Weitekamp & Jose Montes de Oca, OpenProse",
+      "transcript_provider": "transcriptapi",
+      "updated_at_utc": "2026-10-19T18:42:55.278619+00:00",
+      "archive_folder": "Stop-Telling-Agents-How-Dan-Barrett-Raymond-Weitekamp-Jose-Montes-de-Oca-OpenPro__7T-gldvgfpo",
+      "transcript_scope": "daily_digest",
+      "transcript_status": "success",
+      "youtube_published_at_utc": "2026-10-18T19:00:05+00:00",
+      "published_at_utc": "2026-10-18T19:00:05+00:00",
+      "transcript_generated_at_utc": "2026-10-19T18:42:55.278619+00:00"
     }
   }
 }
