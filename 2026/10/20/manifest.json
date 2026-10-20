@@ -1,0 +1,36 @@
+{
+  "digest_date": "2026-10-20",
+  "reporting_window_policy": "fixed_timedelta_from_chicago_anchor",
+  "generated_at_utc": "2026-10-20T17:32:24.280546+00:00",
+  "dry_run": false,
+  "videos": [
+    {
+      "video_id": "Bz1HFxQA1o8",
+      "title": "Shipping AI Into 5 Major Banks Without a 12-Month Compliance Wait \u2014 Al Chen, Cisco",
+      "youtube_url": "https://www.youtube.com/watch?v=Bz1HFxQA1o8",
+      "published_at_utc": "2026-10-20T09:00:06+00:00",
+      "discovery_category": "reporting_window",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": null,
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/20/videos/Shipping-AI-Into-5-Major-Banks-Without-a-12-Month-Compliance-Wait-Al-Chen-Cisco__Bz1HFxQA1o8/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/20/videos/Shipping-AI-Into-5-Major-Banks-Without-a-12-Month-Compliance-Wait-Al-Chen-Cisco__Bz1HFxQA1o8/metadata.json",
+      "archive_folder": "Shipping-AI-Into-5-Major-Banks-Without-a-12-Month-Compliance-Wait-Al-Chen-Cisco__Bz1HFxQA1o8"
+    },
+    {
+      "video_id": "UHbODjuviAU",
+      "title": "The Investor's Edge Lives in Their Head \u2014 Anekha Sokhal, Moshi",
+      "youtube_url": "https://www.youtube.com/watch?v=UHbODjuviAU",
+      "published_at_utc": "2026-10-20T08:00:19+00:00",
+      "discovery_category": "reporting_window",
+      "transcript_status": "success",
+      "transcript_provider": "transcriptapi",
+      "summary_path": null,
+      "transcript_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/20/videos/The-Investors-Edge-Lives-in-Their-Head-Anekha-Sokhal-Moshi__UHbODjuviAU/transcript.md",
+      "metadata_path": "/home/runner/work/youtube-transcript-tool/youtube-transcript-tool/archive/2026/10/20/videos/The-Investors-Edge-Lives-in-Their-Head-Anekha-Sokhal-Moshi__UHbODjuviAU/metadata.json",
+      "archive_folder": "The-Investors-Edge-Lives-in-Their-Head-Anekha-Sokhal-Moshi__UHbODjuviAU"
+    }
+  ],
+  "email_status": null,
+  "summaries_enabled": false
+}
