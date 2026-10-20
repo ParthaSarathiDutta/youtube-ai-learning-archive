@@ -239,7 +239,9 @@
       "transcript_status": "success",
       "youtube_published_at_utc": "2026-10-20T09:00:06+00:00",
       "published_at_utc": "2026-10-20T09:00:06+00:00",
-      "transcript_generated_at_utc": "2026-10-20T17:32:27.673839+00:00"
+      "transcript_generated_at_utc": "2026-10-20T17:32:27.673839+00:00",
+      "digest_email_sent": true,
+      "digest_email_sent_at_utc": "2026-10-20T17:32:41.695188+00:00"
     },
     "UHbODjuviAU": {
       "title": "The Investor's Edge Lives in Their Head \u2014 Anekha Sokhal, Moshi",
@@ -250,7 +252,9 @@
       "transcript_status": "success",
       "youtube_published_at_utc": "2026-10-20T08:00:19+00:00",
       "published_at_utc": "2026-10-20T08:00:19+00:00",
-      "transcript_generated_at_utc": "2026-10-20T17:32:29.829341+00:00"
+      "transcript_generated_at_utc": "2026-10-20T17:32:29.829341+00:00",
+      "digest_email_sent": true,
+      "digest_email_sent_at_utc": "2026-10-20T17:32:41.695188+00:00"
     },
     "f_HwzoYrZ7s": {
       "title": "Why AI Agents Will Need Their Own Bank Accounts \u2014 Lincoln Murr, Coinbase",
